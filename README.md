@@ -29,8 +29,8 @@ Ensure you have the following installed on your system:
 ### Setup Instructions
 1. *Clone the repository:*
    sh
-   git clone https://github.com/yourusername/secure-info-vault.git
-   cd secure-info-vault
+   git clone https://github.com/JCHIKE/Storeme.git
+   cd Storeme
    
 2. *Create and activate a virtual environment:*
    sh
